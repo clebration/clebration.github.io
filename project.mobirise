@@ -621,8 +621,8 @@
                 "thumb": "@THEME_PATH@/components/_images/background4.jpg",
                 "alt": "",
                 "title": "",
-                "customStyle1": "display-7",
-                "caption": "День рождение",
+                "customStyle1": "display-1",
+                "caption": "День рождения",
                 "active": false
               },
               {
